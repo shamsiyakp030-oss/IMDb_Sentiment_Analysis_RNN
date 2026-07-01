@@ -104,6 +104,8 @@ pip install -r requirements.txt
 -   Pandas
 -   Matplotlib
 -   Scikit-learn
+## streamlit cloud community
+- https://imdbsentimentanalysisrnn-hp6dsyycy6wprpb7nfarqe.streamlit.app/
 
 ##  Results
 
